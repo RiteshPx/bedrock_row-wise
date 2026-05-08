@@ -1,0 +1,7 @@
+.venv
+.env
+outputs
+.DS_Store
+.vscode
+.pytest_cache
+.pytest_cache
